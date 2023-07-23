@@ -1,0 +1,9 @@
+/venv/
+/.idea/
+/dist/
+/out/
+*.whl
+*.egg
+/*build*/
+*.egg-info
+/test.py
